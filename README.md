@@ -1,9 +1,10 @@
-*README V1.1*
+*README V1.2*
 # MultiSniper
 Discord Nitro and Giveaway Sniper.
 
 # Downloads
 Get the latest release [here](https://github.com/Pr0xyblade/MultiSniper/releases/latest)
+
 ~ Join [this discord server](https://discord.gg/MdxAADV) for the ZIP's password and to find the MD5 checksums.
 
 # Features
