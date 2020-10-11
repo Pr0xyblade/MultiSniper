@@ -4,7 +4,7 @@ Discord Nitro and Giveaway Sniper.
 
 # Downloads
 Get the latest release [here](https://github.com/Pr0xyblade/MultiSniper/releases/latest)
-Join [this discord server](https://discord.gg/MdxAADV) for the ZIP's password and to find the MD5 checksums.
+- Join [this discord server](https://discord.gg/MdxAADV) for the ZIP's password and to find the MD5 checksums.
 
 # Features
 - Nitro Gift snipe | Listens for nitro gift codes being sent in any servers the user is in, supports discord.gift/, discord.com/gift, discordapp.com/gifts and more to come
