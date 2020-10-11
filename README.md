@@ -1,4 +1,4 @@
-*READEME V1.1*
+*README V1.1*
 # MultiSniper
 Discord Nitro and Giveaway Sniper.
 
