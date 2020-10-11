@@ -23,3 +23,8 @@ Get the latest release [here](https://github.com/Pr0xyblade/MultiSniper/releases
 - Maybe a GUI?
 - More types of snipers
 - Compatibility for more bots
+
+# Screenshots
+
+![Idle](https://gyazo.com/23c89388009effed97f86d628fecd0b6 "ProxyBlade MultiSniper waiting for a nitro code or giveaway.")
+
