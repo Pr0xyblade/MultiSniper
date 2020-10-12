@@ -32,3 +32,5 @@ Get the latest release [here](https://github.com/Pr0xyblade/MultiSniper/releases
 - Notifications:
 
 ![Sniped Nitro](https://i.gyazo.com/3fc39eb76a187ebbe77939eb64de0043.png "ProxyBlade MultiSniper's notification after sniping a nitro code")
+![Sniped Giveaway](https://i.gyazo.com/735f482f6984702a3dbecf8ca8f570a2.png "ProxyBlade MultiSniper's notification after sniping giveaway")
+
